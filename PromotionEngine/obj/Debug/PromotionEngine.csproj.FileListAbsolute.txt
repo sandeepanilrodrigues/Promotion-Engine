@@ -1,0 +1,12 @@
+C:\Users\srodrig3\source\repos\ConsoleApp5\PromotionEngine\bin\Debug\PromotionEngine.dll
+C:\Users\srodrig3\source\repos\ConsoleApp5\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\srodrig3\source\repos\ConsoleApp5\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\srodrig3\source\repos\ConsoleApp5\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\srodrig3\source\repos\ConsoleApp5\PromotionEngine\obj\Debug\PromotionEngine.dll
+C:\Users\srodrig3\source\repos\ConsoleApp5\PromotionEngine\obj\Debug\PromotionEngine.pdb
+C:\Users\srodrig3\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.dll
+C:\Users\srodrig3\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\srodrig3\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\srodrig3\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\srodrig3\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.dll
+C:\Users\srodrig3\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
